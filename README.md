@@ -225,7 +225,7 @@ The Power BI dashboard (`Dashboard/Bank.pbix`) provides:
 - Feature importance insights
 - Business metrics and KPIs
 
-**To view**: Open `Dashboard/Bank.pbix` in Power BI Desktop
+<img width="1287" height="719" alt="Screenshot 2026-02-02 010322" src="https://github.com/user-attachments/assets/d0754b88-0947-419c-bf47-4ec249de671a" />
 
 ---
 
@@ -246,21 +246,14 @@ The Power BI dashboard (`Dashboard/Bank.pbix`) provides:
 
 **Mohamed**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@mohamedyounis10](https://github.com/mohamedyounis10)
+- LinkedIn: [mohamedyounis15](https://www.linkedin.com/in/mohamedyounis15/)
 
 ---
 
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 Acknowledgments
-
-- Portuguese Banking Institution for providing the dataset
-- Open source community for excellent tools and libraries
 
 ---
 
@@ -271,3 +264,4 @@ This project is open source and available under the [MIT License](LICENSE).
 Made with ❤️ for Data Science
 
 </div>
+
